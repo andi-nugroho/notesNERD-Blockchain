@@ -1,2 +1,1 @@
-# notesNERD-Blockchain
-Whats i learn and my journey when learn about Web3 and Blockchain
+This is my Journey when learning Blockchain. I'm self thaught from youtube and google using free resources
