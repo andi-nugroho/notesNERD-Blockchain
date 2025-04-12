@@ -1,0 +1,398 @@
+{
+  "main": {
+    "id": "8b1ca983ed69ca60",
+    "type": "split",
+    "children": [
+      {
+        "id": "915c2193fa633e34",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "82d2610c87dd37c1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "BlockDevId x Pelita Bangsa/Pertemuan 5 - Membuat dan mendeploy smart contract.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Pertemuan 5 - Membuat dan mendeploy smart contract"
+            }
+          },
+          {
+            "id": "e9269f7f25cc047c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "README"
+            }
+          },
+          {
+            "id": "75d9cda9c7d28929",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Space-x Web3/GadoGado Web3 x Pastaman.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "GadoGado Web3 x Pastaman"
+            }
+          },
+          {
+            "id": "0dd3797bce647add",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Untitled.canvas",
+                "viewState": {
+                  "x": 407.22851865882774,
+                  "y": -52.1797519544523,
+                  "zoom": -0.874161351381367
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "Untitled"
+            }
+          },
+          {
+            "id": "0d0d535e22fc7e48",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Untitled"
+            }
+          },
+          {
+            "id": "3e616eaf5b1b4731",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Kamu Crypto (Degen atau NgeMicin).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Kamu Crypto (Degen atau NgeMicin)"
+            }
+          },
+          {
+            "id": "858d85ff0c3a0e2c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Solana Bootcamp by Ackee/Assignment 2 Rust.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Assignment 2 Rust"
+            }
+          },
+          {
+            "id": "cf3a5472a67b4f15",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "MiniApps Tele Polygon/Polygon, whats thatttt.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Polygon, whats thatttt"
+            }
+          },
+          {
+            "id": "3fc802cb0389561d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Kamus Crypto (Degen atau NgeMicin).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Kamus Crypto (Degen atau NgeMicin)"
+            }
+          },
+          {
+            "id": "8db57b939cc08bca",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Orochi Network/zkDatabase/Important things.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Important things"
+            }
+          },
+          {
+            "id": "b199a7c489295dfa",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Screenshot from 2024-12-02 15-15-55.png"
+              },
+              "icon": "lucide-image",
+              "title": "Screenshot from 2024-12-02 15-15-55"
+            }
+          },
+          {
+            "id": "edc2707b70d733c0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Kamus Crypto (Degen atau NgeMicin).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Kamus Crypto (Degen atau NgeMicin)"
+            }
+          },
+          {
+            "id": "05d38df9ecc5428a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Step to Develop Smart Contract.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Step to Develop Smart Contract"
+            }
+          }
+        ],
+        "currentTab": 12
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "b2a0e2f1d69bbeba",
+    "type": "split",
+    "children": [
+      {
+        "id": "48b6aec90bd28eef",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "469f60ed3ee40497",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "2e1c59e46fc15ad1",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "9a14e3984b5a803e",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 234.5
+  },
+  "right": {
+    "id": "cae5c2f32de7ce1f",
+    "type": "split",
+    "children": [
+      {
+        "id": "9ffb60453745f2d3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5cd7369946d8510b",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Kamu Crypto (Degen atau NgeMicin).md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Kamu Crypto (Degen atau NgeMicin)"
+            }
+          },
+          {
+            "id": "8b934ddceedb8eb9",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Kamu Crypto (Degen atau NgeMicin).md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Kamu Crypto (Degen atau NgeMicin)"
+            }
+          },
+          {
+            "id": "3963956e5d4f0529",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "1993c2cd3c9414fb",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Kamu Crypto (Degen atau NgeMicin).md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Kamu Crypto (Degen atau NgeMicin)"
+            }
+          },
+          {
+            "id": "308f11ba6da71cab",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-git:Open Git source control": false,
+      "templater-obsidian:Templater": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "obsidian-kanban:Create new board": false
+    }
+  },
+  "active": "05d38df9ecc5428a",
+  "lastOpenFiles": [
+    "Kamus Crypto (Degen atau NgeMicin).md",
+    "Step to Develop Smart Contract.md",
+    "photo_2024-12-02_15-21-55.jpg",
+    "Untitled.md",
+    "Untitled.canvas",
+    "Screenshot from 2024-12-02 15-15-55.png",
+    "Screenshot from 2024-12-02 15-17-13.png",
+    "Screenshot from 2024-12-02 15-17-44.png",
+    "Screenshot from 2024-12-02 15-17-55.png",
+    "Screenshot from 2024-12-02 15-18-13.png",
+    "Flow asia hackathon.md",
+    "Portfolio Fajar.md",
+    "foto-absensi-iot.jpg",
+    "Orochi Network/zkDatabase/Important things.md",
+    "Orochi Network/zkDatabase",
+    "Orochi Network",
+    "MiniApps Tele Polygon/Polygon, whats thatttt.md",
+    "MiniApps Tele Polygon/Smart Contract Requirements.md",
+    "MiniApps Tele Polygon/zk.md",
+    "MiniApps Tele Polygon/Bonding Curve.md",
+    "MiniApps Tele Polygon/Polygon zkEVM.md",
+    "Smart Contract Auditor/How important is attention to detail for auditors?.md",
+    "Smart Contract Auditor/Technical skills for Auditors.md",
+    "Smart Contract Auditor/How to identify Vuln in Smart Contract.md",
+    "Smart Contract Auditor/Essentials skill for Auditors.md",
+    "Smart Contract Auditor/Key components to focus on in Audits.md",
+    "Smart Contract Auditor/A basic that must know for auditor.md",
+    "Smart Contract Auditor/How to read a Smart Contract to Audit?.md",
+    "EVM/EVM Stuff.md",
+    "Smart Contract Auditor",
+    "EVM/Untitled",
+    "EVM",
+    "Web3 Indive Event/Web Indive Workshop.md",
+    "Space-x Web3/GadoGado Web3 x Pastaman.md",
+    "Space-x Web3/Cara Jual diri di Web3.md",
+    "Excalidraw/Concept Blockchain.md",
+    "Fundamentals/What is Blockchain.md",
+    "Fundamentals/What is Ethereum.md",
+    "BlockDevId x Pelita Bangsa/Pertemuan 5 - Membuat dan mendeploy smart contract.md",
+    "MiniApps Tele Polygon",
+    "Solidity Journey",
+    "Solana Bootcamp by Ackee",
+    "Lisk x Pelita banga",
+    "ICP Blockchain/Hackathon",
+    "basic-1.png"
+  ]
+}
